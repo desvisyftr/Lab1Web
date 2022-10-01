@@ -22,3 +22,6 @@ simpan file gambar tersebut satu folder dengan file dokumen html. Lalu menggunak
 ### Menambahkan Hyperlink
 Tambahkan hyperlink pada dokumen sebelum heading 1, lalu buat lagi 1 file dengan nama lab1_halaman2 html kemudian isi dokumen tersebut dengan tag html dasar dan dengan isi bebas, lalu gunakan tag `<a>`href untuk menunjuk URL yg dimaksud atau dituju. Begini lah tampilannya.
 ![gambar5](screenshot/ss5.png)
+
+### Hasil dari yang Saya Pelajari hari ini
+![img]screenshot/ss6.png
