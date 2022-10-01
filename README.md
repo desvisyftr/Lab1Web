@@ -17,4 +17,4 @@ Dalam mengubah isi paragraf dapat dilakukan secara langsung dengan menggunakan `
 ### Menambahkan Gambar/Foto
 Menambahkan gambar dapat dilakukan dengan cara menyisisipkan gambar pada halaman web, kemudian
 simpan file gambar tersebut satu folder dengan file dokumen html. Lalu menggunakan tag `<img>` src, width untuk ukuran gambarnya, dan beginilah tampilannya.
-![img]screenshot/ss4.png 
+![gambar4](screenshot/ss4.png) 
