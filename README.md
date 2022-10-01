@@ -24,4 +24,4 @@ Tambahkan hyperlink pada dokumen sebelum heading 1, lalu buat lagi 1 file dengan
 ![gambar5](screenshot/ss5.png)
 
 ### Hasil dari yang Saya Pelajari hari ini
-![gambar6](screenshot/ss6.png)
+![img]screenshot/ss6.png
