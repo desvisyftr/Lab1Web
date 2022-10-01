@@ -17,4 +17,8 @@ Dalam mengubah isi paragraf dapat dilakukan secara langsung dengan menggunakan `
 ### Menambahkan Gambar/Foto
 Menambahkan gambar dapat dilakukan dengan cara menyisisipkan gambar pada halaman web, kemudian
 simpan file gambar tersebut satu folder dengan file dokumen html. Lalu menggunakan tag `<img>` src, width untuk ukuran gambarnya, dan beginilah tampilannya.
-![gambar4](screenshot/ss4.png) 
+![gambar4](screenshot/ss4.png)
+
+### Menambahkan Hyperlink
+Tambahkan hyperlink pada dokumen sebelum heading 1, lalu buat lagi 1 file dengan nama lab1_halaman2 html kemudian isi dokumen tersebut dengan tag html dasar dan dengan isi bebas, lalu gunakan tag `<a>`href untuk menunjuk URL yg dimaksud atau dituju. Begini lah tampilannya.
+![img]screeshot/ss5.png
