@@ -13,3 +13,8 @@ kode tag untuk nama tab menggunakan `<title>` dan cara menambahkan judul menggun
 ### Mengubah Isi Paragraf dan Memformat Teks
 Dalam mengubah isi paragraf dapat dilakukan secara langsung dengan menggunakan `<p>` dan memformat teks dapat dibuat memakai tag. Beberapa tag nya, yaitu: tag bold `<b>`, tag untuk important text `<strong>`, tag italic `<i>`. berikut ini adalah tampilannya.
 ![gambar3](screenshot/ss3.png)
+
+### Menambahkan Gambar/Foto
+Menambahkan gambar dapat dilakukan dengan cara menyisisipkan gambar pada halaman web, kemudian
+simpan file gambar tersebut satu folder dengan file dokumen html. Lalu menggunakan tag `<img>` src, width untuk ukuran gambarnya, dan beginilah tampilannya.
+![img]screenshot/ss4.png 
